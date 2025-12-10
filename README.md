@@ -4,6 +4,9 @@
 
 - [Digital Forensics Lab](https://github.com/christianisaac746-ops/CybersecurityPortfolio.git)
 
+- [Mcloud Public Schools AI Policy](https://github.com/christianisaac746-ops/MPSAIPolicy)
+
+
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
