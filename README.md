@@ -4,10 +4,10 @@
 
 - [Digital Forensics Lab:](https://github.com/christianisaac746-ops/CybersecurityPortfolio.git) Executed a comprehensive host-based digital forensic investigation following NIST SP 800-86 standards to reconstruct breach timelines, recover deleted artifacts, and identify critical regulatory compliance violations.
 
-**Tools Used:**
-  *FTK Imager
-  *Autopsy
-  *Powershell
+    **Tools Used:**
+   + FTK Imager
+   + Autopsy
+   + Powershell
  
 - [Active Directory Lab:](https://github.com/christianisaac746-ops/Active-Directory-Home-Lab.git) Engineered a functional, from-scratch Active Directory environment to demonstrate technical proficiency in enterprise identity and access management (IAM), Windows Server infrastructure, and secure network configuration.
 
