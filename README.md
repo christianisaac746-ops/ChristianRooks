@@ -6,7 +6,7 @@
 
 - [Mcloud Public Schools AI Policy](https://github.com/christianisaac746-ops/MPSAIPolicy)
 
-- [Active Directory Lab](https://github.com/christianisaac746-ops/Active-Directory-Home-Lab.git)
+- [Active Directory Lab](https://github.com/christianisaac746-ops/Active-Directory-Home-Lab.git):Engineered a functional, from-scratch Active Directory environment to demonstrate technical proficiency in enterprise identity and access management (IAM), Windows Server infrastructure, and secure network configuration
 
 
 <!--
