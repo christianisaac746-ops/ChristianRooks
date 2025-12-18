@@ -11,6 +11,11 @@
  
 - [Active Directory Lab:](https://github.com/christianisaac746-ops/Active-Directory-Home-Lab.git) Engineered a functional, from-scratch Active Directory environment to demonstrate technical proficiency in enterprise identity and access management (IAM), Windows Server infrastructure, and secure network configuration.
 
+    **Tools Used:**
+   + Windows Server (AD DS)
+   + Oracle VirtualBox
+   + PowerShell
+
 - [Mcloud Public Schools AI Policy:](https://github.com/christianisaac746-ops/MPSAIPolicy) Architected a district-wide AI Governance and Acceptable Use Policy to mitigate security risks, protect student data privacy, and establish an ethical framework for the responsible integration of emerging generative technologies.
 
 <!--
