@@ -14,7 +14,7 @@
     **Tools Used:**
    + Windows Server (AD DS)
    + Oracle VirtualBox
-   + PowerShell
+   + Powershell
 
 - **[Mcloud Public Schools AI Policy:](https://github.com/christianisaac746-ops/MPSAIPolicy)** Architected a district-wide AI Governance and Acceptable Use Policy to mitigate security risks, protect student data privacy, and establish an ethical framework for the responsible integration of emerging generative technologies.
 
